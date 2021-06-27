@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reland.
-- 👀 I’m interested in leveling up; presently on Level 0.
+- 👀 I’m interested in leveling up.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on open source projects with tasks for beginners.
+- 💞️ I’m looking to learn and collaborate on open source projects with tasks for beginners.
 - 📫 How to reach me: instagram.com/glorifiedbicycles
 
 <!---
