@@ -1,5 +1,5 @@
-👋 Hi, I’m Reland.
-🌱 I’m currently on the hunt for a full-time software engineering role.
+👋 Hi, I’m Reland.\
+🌱 I’m currently on the hunt for a full-time software engineering role.\
 💞️ I’m always looking for interesting open-source projects where I can have a positive impact.
 
 <!---
