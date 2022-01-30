@@ -28,7 +28,7 @@
 ![node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 \
 \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relandboyle&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/relandboyle/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relandboyle&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/relandboyle/)
 
 ## Tools
 
