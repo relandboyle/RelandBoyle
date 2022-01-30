@@ -1,12 +1,12 @@
 # Hi, I'm Reland.
-
+<br><br>
 ![Reland's GitHub Stats](https://github-readme-stats.vercel.app/api?username=relandboyle&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)
 <br><br>
 ## Currently working on
 #### Open-Source Contributions and Original Projects
 - [**KR8S**](https://github.com/open-source-labs/kr8s): *Dev Tool* - An Electron developer tool to monitor and visualize Kubernetes cluster metrics in a user-friendly GUI.
-- [**Skills Grid**](https://github.com/relandboyle/interview-skills-grid): *Tool* - A game board for tracking the topics we need to focus on during the job search. Test your skills and turn all the blocks green!
-- [**Application Target List**](https://github.com/relandboyle/application-list-generator): *Tool* - A software engineer may apply to literally hundreds of companies in the course of a job search. Remove the cognitive load of decising where to apply next.
+- [**Skills Grid**](https://github.com/relandboyle/interview-skills-grid): *Game* - A game board for tracking the topics we need to focus on during the job search. Test your skills and turn all the blocks green!
+- [**Application Target List**](https://github.com/relandboyle/application-list-generator): *Life Hack* - A software engineer may apply to literally hundreds of companies in the course of a job search. Remove the cognitive load of decising where to apply next.
 - [**ZD Agent Helper**](https://github.com/relandboyle/ZD-Agent-Helper): *Chrome Extension* - Remind Zendesk Agents to validate realtionships between customers and organizations. Augment the UI to create an un-missable signal when no organization is associated with the requester.
 
 ## Stack
