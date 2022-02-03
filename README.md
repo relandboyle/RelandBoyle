@@ -2,7 +2,7 @@
 <br><br>
 ![Reland's GitHub Stats](https://github-readme-stats.vercel.app/api?username=relandboyle&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)
 <br><br>
-[![LinkedIn](https://img.shields.io/badge/My_Résumé-0077B5?style=for-the-badge&logo=&logoColor=white)](https://github.com/relandboyle/hello-world/blob/6f01dc977acdc17669ac29af9d2168cc7e4fbbf5/Reland%20Boyle%20Resume.pdf)
+[![Résumé](https://img.shields.io/badge/My_Résumé-0077B5?style=for-the-badge&logo=&logoColor=white)](https://github.com/relandboyle/hello-world/blob/6f01dc977acdc17669ac29af9d2168cc7e4fbbf5/Reland%20Boyle%20Resume.pdf)
 <br><br>
 ## Currently working on
 #### Open-Source Contributions and Original Projects
