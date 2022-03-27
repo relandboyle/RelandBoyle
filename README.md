@@ -6,6 +6,7 @@
 <br><br>
 ## Currently working on
 #### Open-Source Contributions and Original Projects
+- [**Drone Tools**](https://github.com/RBoyle-Software/drone-tools): *Specialized Field Tool* - High-powered racing drones run the risk of breaking the sound barrier at top speeds. Estimate max prop tip speed and compare to local Mach 1.
 - [**KR8S**](https://github.com/open-source-labs/kr8s): *Dev Tool* - An Electron developer tool to monitor and visualize Kubernetes cluster metrics in a user-friendly GUI.
 - [**Skills Grid**](https://github.com/RBoyle-Software/interview-skills-grid): *Productivity Game* - A game board for tracking the topics we need to focus on during the job search. Test your skills and turn all the blocks green!
 - [**Application Target List**](https://github.com/relandboyle/application-list-generator): *Life Hack* - A software engineer may apply to literally hundreds of companies in the course of a job search. Eliminate the cognitive load of deciding where to apply next.
