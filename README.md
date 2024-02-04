@@ -1,7 +1,4 @@
 # Reland Boyle
-<br><br>
-![Reland's GitHub Stats](https://github-readme-stats.vercel.app/api?username=relandboyle&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight&hide=issues,contribs)
-<br><br>
 [![Résumé](https://img.shields.io/badge/My_Résumé-0077B5?style=for-the-badge&logo=&logoColor=white)](https://github.com/relandboyle/hello-world/blob/4296a04833c4b44ed4253eb075c41c074659893d/Reland%20Boyle%20Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/relandboyle)
 <br><br>
