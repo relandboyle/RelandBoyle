@@ -1,5 +1,5 @@
 # Reland Boyle
-[![Résumé](https://img.shields.io/badge/My_Résumé-0077B5?style=for-the-badge&logo=&logoColor=white)](https://github.com/relandboyle/hello-world/blob/4296a04833c4b44ed4253eb075c41c074659893d/Reland%20Boyle%20Resume.pdf)
+[![Résumé](https://img.shields.io/badge/My_Résumé-0077B5?style=for-the-badge&logo=&logoColor=white)](https://github.com/relandboyle/hello-world/blob/5d497976bd6d88de1a15305b6e6810f9238af1e8/Reland%20Boyle%20Resume.pdf) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/relandboyle)
 <br><br>
 ## Recent Projects
