@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/relandboyle)
 <br><br>
 ## Recent Projects
-- [**Linkta**](https://github.com/Linkta-org/core): An AI-powered learning companion to guide knowledge-seekers in their quest.
+- [**Linkta**](https://github.com/Linkta-org/core): *Revoltionizing the way we learn* - An AI-powered learning companion to guide knowledge-seekers in their quest.
 - [**HeatSync Client**](https://github.com/relandboyle/heat-sync-flutter-client) and [**HeatSync Server**](https://github.com/relandboyle/heat-sync): *Joining the fight for Tenants' Rights* - A service that automates the collection of indoor and outdoor temperature data for the purpose of holding landlords accountable for providing heat and hot water during harsh New York winters.
 - [**Drone Tools**](https://github.com/RBoyle-Software/drone-tools): *Specialized Field Tool* - High-powered racing drones run the risk of breaking the sound barrier at top speeds. Estimate max prop tip speed and compare to local Mach 1.
 - [**KR8S**](https://github.com/open-source-labs/kr8s): *Dev Tool* - An Electron developer tool to monitor and visualize Kubernetes cluster metrics in a user-friendly GUI.
